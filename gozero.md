@@ -12,13 +12,6 @@ tags: [Golang]
 
 [English](readme.md) | 简体中文
 
-[![Go](https://github.com/zeromicro/go-zero/workflows/Go/badge.svg?branch=master)](https://github.com/zeromicro/go-zero/actions)
-[![Go Report Card](https://goreportcard.com/badge/github.com/zeromicro/go-zero)](https://goreportcard.com/report/github.com/zeromicro/go-zero)
-[![goproxy](https://goproxy.cn/stats/github.com/tal-tech/go-zero/badges/download-count.svg)](https://goproxy.cn/stats/github.com/tal-tech/go-zero/badges/download-count.svg)
-[![codecov](https://codecov.io/gh/zeromicro/go-zero/branch/master/graph/badge.svg)](https://codecov.io/gh/zeromicro/go-zero)
-[![Release](https://img.shields.io/github/v/release/zeromicro/go-zero.svg?style=flat-square)](https://github.com/zeromicro/go-zero)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 > ***注意：***
 >
 > 从 v1.3.0 之前版本升级请执行以下命令：
@@ -269,27 +262,3 @@ go-zero 已被许多公司用于生产部署，接入场景如在线教育、电
 </p>
 
 go-zero 收录在 [CNCF Cloud Native 云原生技术全景图](https://landscape.cncf.io/?selected=go-zero)。
-
-## 10. 微信公众号
-
-`go-zero` 相关文章和视频都会在 `微服务实践` 公众号整理呈现，欢迎扫码关注 👏
-
-<img src="https://raw.githubusercontent.com/zeromicro/zero-doc/main/doc/images/zeromicro.jpg" alt="wechat" width="600" />
-
-## 11. 微信交流群
-
-如果文档中未能覆盖的任何疑问，欢迎您在群里提出，我们会尽快答复。
-
-您可以在群内提出使用中需要改进的地方，我们会考虑合理性并尽快修改。
-
-如果您发现 ***bug*** 请及时提 ***issue***，我们会尽快确认并修改。
-
-加群之前有劳点一下 ***star***，一个小小的 ***star*** 是作者们回答海量问题的动力！🤝
-
-<img src="https://raw.githubusercontent.com/zeromicro/zero-doc/main/doc/images/wechat.jpg" alt="wechat" width="300" />
-
-## 12. 赞助一下👍
-
-如果觉得项目有帮助，可以请作者喝杯咖啡 🍹
-
-<img src="https://raw.githubusercontent.com/zeromicro/zero-doc/main/doc/images/sponsor.png" alt="wechat" width="300" />
