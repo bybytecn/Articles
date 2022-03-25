@@ -32,7 +32,7 @@ master分支上的第一个结点，由我们提交文件a.txt后产生
 由我们分别在B、C、D分支上分别提交b1.txt、b2.txt、b3.txt文件产生的
 
 如图所示
-![avatar](./imgs/git_before_merge.png)
+![avatar](git_before_merge.png)
 
 从A到B这条路径代表的软件版本是:a.txt b1.txt
 
@@ -41,7 +41,7 @@ master分支上的第一个结点，由我们提交文件a.txt后产生
 从A到D这条路径代表的软件版本是:a.txt b3.txt
 
 # 合并B和C后
-![avatar](./imgs/git_after_merge.png)
+![avatar](git_after_merge.png)
 
 
 # 总结
