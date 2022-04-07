@@ -14,6 +14,7 @@ tags: [PhantomJS,编译]
 - QtWebKit MSVC2017 X86
 - CMake
 - OpenSSL
+
 ## PhantomJS
 我用的Commit版本是 [PhantomJs](https://github.com/ariya/phantomjs/tree/0a0b0facb16acfbabb7804822ecaf4f4b9dce3d2)
 
@@ -47,7 +48,7 @@ cmake .
 ## Step3
 经过第二步后会产生一个sln文件,用VS2017打开编译即可，但是编译会出现几个问题，一个是库函数重定义，一个宏重定义问题，看着解决就行了
 
-![avatar](./phantomjs/1.png)
+![avatar](1.png)
 
 # 测试
 main.js是我写的一个脚本，输入参数是网址，输出加载这个网站会出现的问题
@@ -74,4 +75,4 @@ if (system.args.length === 1) {
     }
 }
 ```
-![avatar](./phantomjs/2.png)
+![avatar](2.png)
