@@ -43,5 +43,4 @@ make DISABLE_SHADOWSOCKS=true
 ```
 
 # 打包
-为了方便，把打包完成的文件放在这里了
-[redsocks2](./redsocks.jpg) 把文件后缀改为zip
+为了方便，把打包完成的文件放在这里了[redsocks2](./redsocks.jpg) **(需要把文件后缀改为zip)**
